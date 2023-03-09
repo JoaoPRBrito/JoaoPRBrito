@@ -1,6 +1,6 @@
 - 👋 Hi, I’m João Brito
 - 👀 I’m interested in development in general.
-- 🌱 I’m currently learning Kotlin, XML, Python and C.
+- 🌱 I’m currently improving in Java, XML, Python C++ and C.
 - 💞️ I’m looking to collaborate on a project of college.
 - 📫 How to reach me: Send an email to brittojpr@gmail.com
 
